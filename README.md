@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&&height=300&section=header&text=welcome&fontSize=100&reversal=true)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&&height=300&section=header&text=welcome&fontSize=90&reversal=true&fontAlignY=40)
 
 <!--
 **ay-eonii/ay-eonii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
